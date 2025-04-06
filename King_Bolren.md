@@ -1,0 +1,3 @@
+# King Bolren
+
+*This page was auto-generated from structure.*

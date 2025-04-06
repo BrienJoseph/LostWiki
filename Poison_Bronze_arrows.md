@@ -1,0 +1,3 @@
+# Poison Bronze arrows
+
+*This page was auto-generated from structure.*

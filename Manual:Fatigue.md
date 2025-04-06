@@ -1,0 +1,3 @@
+# Manual:Fatigue
+
+*This page was auto-generated from structure.*

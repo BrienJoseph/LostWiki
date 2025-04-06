@@ -1,0 +1,3 @@
+# Raw Herring
+
+*This page was auto-generated from structure.*

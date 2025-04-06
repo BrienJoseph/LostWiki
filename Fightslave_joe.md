@@ -1,0 +1,3 @@
+# Fightslave joe
+
+*This page was auto-generated from structure.*

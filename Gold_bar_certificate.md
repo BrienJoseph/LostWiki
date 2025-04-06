@@ -1,0 +1,3 @@
+# Gold bar certificate
+
+*This page was auto-generated from structure.*

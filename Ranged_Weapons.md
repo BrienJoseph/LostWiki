@@ -1,0 +1,3 @@
+# Ranged Weapons
+
+*This page was auto-generated from structure.*

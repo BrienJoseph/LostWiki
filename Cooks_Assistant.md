@@ -1,0 +1,3 @@
+# Cooks Assistant
+
+*This page was auto-generated from structure.*

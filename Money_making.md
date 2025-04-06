@@ -1,0 +1,3 @@
+# Money making
+
+*This page was auto-generated from structure.*

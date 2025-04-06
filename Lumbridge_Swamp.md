@@ -1,0 +1,3 @@
+# Lumbridge Swamp
+
+*This page was auto-generated from structure.*

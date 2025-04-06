@@ -1,0 +1,3 @@
+# Smithing table
+
+*This page was auto-generated from structure.*

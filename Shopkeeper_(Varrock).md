@@ -1,0 +1,3 @@
+# Shopkeeper (Varrock)
+
+*This page was auto-generated from structure.*

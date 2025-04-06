@@ -1,0 +1,3 @@
+# Wooden Beam
+
+*This page was auto-generated from structure.*

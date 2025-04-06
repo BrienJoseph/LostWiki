@@ -1,0 +1,3 @@
+# Gate (Shipyard)
+
+*This page was auto-generated from structure.*

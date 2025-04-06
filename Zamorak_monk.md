@@ -1,0 +1,3 @@
+# Zamorak monk
+
+*This page was auto-generated from structure.*

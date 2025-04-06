@@ -1,0 +1,3 @@
+# Adamant short sword
+
+*This page was auto-generated from structure.*

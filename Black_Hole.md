@@ -1,0 +1,3 @@
+# Black Hole
+
+*This page was auto-generated from structure.*

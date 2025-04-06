@@ -1,0 +1,3 @@
+# Armour/Highest bonuses
+
+*This page was auto-generated from structure.*

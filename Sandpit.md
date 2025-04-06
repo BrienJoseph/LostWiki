@@ -1,0 +1,3 @@
+# Sandpit
+
+*This page was auto-generated from structure.*

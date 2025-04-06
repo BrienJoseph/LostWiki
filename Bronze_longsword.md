@@ -1,0 +1,3 @@
+# Bronze longsword
+
+*This page was auto-generated from structure.*

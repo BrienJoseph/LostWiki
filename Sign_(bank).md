@@ -1,0 +1,3 @@
+# Sign (bank)
+
+*This page was auto-generated from structure.*

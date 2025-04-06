@@ -1,0 +1,3 @@
+# Leather Gloves
+
+*This page was auto-generated from structure.*

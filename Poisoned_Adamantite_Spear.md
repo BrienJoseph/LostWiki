@@ -1,0 +1,3 @@
+# Poisoned Adamantite Spear
+
+*This page was auto-generated from structure.*

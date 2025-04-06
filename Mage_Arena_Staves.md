@@ -1,0 +1,3 @@
+# Mage Arena Staves
+
+*This page was auto-generated from structure.*

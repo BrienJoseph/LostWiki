@@ -1,0 +1,3 @@
+# Lumber Mill
+
+*This page was auto-generated from structure.*

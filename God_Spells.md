@@ -1,0 +1,3 @@
+# God Spells
+
+*This page was auto-generated from structure.*

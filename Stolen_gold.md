@@ -1,0 +1,3 @@
+# Stolen gold
+
+*This page was auto-generated from structure.*

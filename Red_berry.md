@@ -1,0 +1,3 @@
+# Red berry
+
+*This page was auto-generated from structure.*

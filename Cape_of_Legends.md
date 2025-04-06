@@ -1,0 +1,3 @@
+# Cape of Legends
+
+*This page was auto-generated from structure.*

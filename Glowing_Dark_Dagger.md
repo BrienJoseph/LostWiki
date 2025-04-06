@@ -1,0 +1,3 @@
+# Glowing Dark Dagger
+
+*This page was auto-generated from structure.*
