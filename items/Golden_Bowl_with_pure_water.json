@@ -1,0 +1,26 @@
+{
+  "title": "Golden Bowl with pure water",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 1
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Golden Bowl with pure water"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "This page was auto-generated from item structure."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Party Hat (white)",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 1
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Party Hat (white)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "This page was auto-generated from item structure."
+        }
+      ]
+    }
+  ]
+}

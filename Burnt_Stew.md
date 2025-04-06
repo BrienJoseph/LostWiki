@@ -1,3 +1,0 @@
-# Burnt Stew
-
-*This page was auto-generated from structure.*

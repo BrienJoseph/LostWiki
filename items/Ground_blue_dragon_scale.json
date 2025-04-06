@@ -1,0 +1,26 @@
+{
+  "title": "Ground blue dragon scale",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 1
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Ground blue dragon scale"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "This page was auto-generated from item structure."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Palm tree leaf",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 1
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Palm tree leaf"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "This page was auto-generated from item structure."
+        }
+      ]
+    }
+  ]
+}

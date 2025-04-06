@@ -1,0 +1,26 @@
+{
+  "title": "Super Strength Potion Certificate",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 1
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Super Strength Potion Certificate"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "This page was auto-generated from item structure."
+        }
+      ]
+    }
+  ]
+}

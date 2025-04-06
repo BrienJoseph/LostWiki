@@ -1,3 +1,0 @@
-# Maple logs certificate
-
-*This page was auto-generated from structure.*

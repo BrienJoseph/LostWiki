@@ -1,3 +1,0 @@
-# Uncooked apple pie
-
-*This page was auto-generated from structure.*

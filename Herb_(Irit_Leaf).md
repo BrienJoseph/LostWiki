@@ -1,3 +1,0 @@
-# Herb (Irit Leaf)
-
-*This page was auto-generated from structure.*

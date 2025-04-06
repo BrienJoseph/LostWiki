@@ -1,3 +1,0 @@
-# Amulet of Holthion
-
-*This page was auto-generated from structure.*

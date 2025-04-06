@@ -1,3 +1,0 @@
-# Skull
-
-*This page was auto-generated from structure.*
