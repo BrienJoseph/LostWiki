@@ -1,5 +1,5 @@
 <div align="center">
-# lostwiki.org 
+  <h1>lostwiki.org</h1> 
 </div>
 
 [!NOTE]
