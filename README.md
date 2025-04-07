@@ -2,8 +2,8 @@
   <h1>lostwiki.org</h1> 
 </div>
 
-[!NOTE]
-This is project is unaffiliated with Jagex, Runescape, Oldschool Runescape, 2004scape. The intent of this is to relive the experience of documenting what the playerbase knows about the game, with a new additional focus on the source code. I would like this wiki to better document how the lostcity scape code works, sources that validate it, and how players can enjoy the end result.
+> [!NOTE]
+> This is project is unaffiliated with Jagex, Runescape, Oldschool Runescape, 2004scape. The intent of this is to relive the experience of documenting what the playerbase knows about the game, with a new additional focus on the source code. I would like this wiki to better document how the lostcity scape code works, sources that validate it, and how players can enjoy the end result.
 
 ## About
 
