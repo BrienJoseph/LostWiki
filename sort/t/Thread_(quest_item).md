@@ -1,3 +1,0 @@
-# Thread (quest item)
-
-*This page was auto-generated from structure.*

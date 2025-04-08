@@ -1,3 +1,0 @@
-# Rotten Gallows
-
-*This page was auto-generated from structure.*
