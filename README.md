@@ -1,4 +1,4 @@
-#LostWiki
+# LostWiki
 
 a wiki alternative specific to the lost city project: https://lostwiki.org
 
