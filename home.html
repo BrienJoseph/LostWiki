@@ -2,47 +2,11 @@
 title: LostWiki
 description: what year is it?
 published: true
-date: 2025-04-09T07:32:47.423Z
+date: 2025-04-09T07:34:03.825Z
 tags: 
 editor: code
 dateCreated: 2025-04-07T06:18:58.184Z
 -->
-
-
-<style>
-.section-block {
-  background-color: rgba(18, 18, 18, 0.85);
-  padding: 1.5rem;
-  margin-bottom: 2rem;
-  border: 1px solid #3b3326;
-  border-radius: 12px;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
-}
-</style>
-
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  const content = document.querySelector('.v-main .contents');
-  if (!content) return;
-
-  const nodes = Array.from(content.children);
-  let section = null;
-
-  nodes.forEach(node => {
-    if (node.tagName === 'H2') {
-      // Start a new section
-      section = document.createElement('div');
-      section.className = 'section-block';
-      node.before(section);
-    }
-    if (section) {
-      section.appendChild(node);
-    }
-  });
-});
-</script>
-
-
 
 <div class="text-center">
   <h1 class="toc-header" id="lostwikiorg"> lostwiki.org</h1>
