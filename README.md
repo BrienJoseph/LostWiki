@@ -2,6 +2,8 @@
 
 a wiki alternative specific to the lost city project: https://lostwiki.org
 
+Join the discord: https://discord.gg/hM8rqMf2xY
+
 It is a bit different than other wikis and that's by design. The thing that really got me back into the community was the open source nature of this project -- and I wanted to utilize a wiki-like backend that could facilitate that.
 
 While there is the ability to sign in with GitHub (and add people who earn trust to contributor/admin/etc), the aspect I leaned into was tying this entire effort to a GitHub project: https://github.com/BrienJoseph/LostWiki
