@@ -2,7 +2,7 @@
 
 a wiki alternative specific to the lost city project: https://lostwiki.org
 
-Join the discord: https://discord.gg/hM8rqMf2xY
+[Join the Discord](https://discord.gg/hM8rqMf2xY)
 
 It is a bit different than other wikis and that's by design. The thing that really got me back into the community was the open source nature of this project -- and I wanted to utilize a wiki-like backend that could facilitate that.
 
