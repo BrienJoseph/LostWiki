@@ -1,0 +1,112 @@
+<!--
+title: Commands Reference
+description: 
+published: true
+date: 2025-04-10T06:55:39.083Z
+tags: typescript, development, client2
+editor: code
+dateCreated: 2025-04-10T06:55:39.083Z
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Client2 Commands Reference</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #f4f4f4;
+    }
+    h2 {
+      margin-top: 32px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Client2 Commands Reference</h1>
+  <p>This page documents available developer and cheat commands in the <strong>2004Scape Ported TypeScript Client (Client2)</strong>.</p>
+
+  <h2>Account Commands</h2>
+  <table>
+    <tr><th>Command</th><th>Description</th></tr>
+    <tr><td>::reset</td><td>Reset your progress</td></tr>
+    <tr><td>::minme</td><td>Set all your stats to level 1</td></tr>
+    <tr><td>::maxme</td><td>Set all your stats to level 99</td></tr>
+    <tr><td>::setstat</td><td>Set a stat to a specific level</td></tr>
+    <tr><td>::addxp</td><td>Add XP to a skill (<code>data/src/scripts/_test/scripts/cheats/cheat_addxp.rs2</code>)</td></tr>
+    <tr><td>::setxp</td><td>Set your XP in a skill</td></tr>
+    <tr><td>::1hp</td><td>Set your health to 1</td></tr>
+    <tr><td>::foodbank</td><td>Fill your bank with food</td></tr>
+    <tr><td>::energy</td><td>Restore your run energy</td></tr>
+  </table>
+
+  <h2>Item Commands</h2>
+  <table>
+    <tr><th>Command</th><th>Description</th></tr>
+    <tr><td>::bank</td><td>Open your bank anywhere</td></tr>
+    <tr><td>::bank_preset</td><td>Fill your bank with common items</td></tr>
+    <tr><td>::clearinv</td><td>Clear a named inventory</td></tr>
+    <tr><td>::give</td><td>Give yourself any item</td></tr>
+    <tr><td>::fmtest</td><td>Give yourself items to test firemaking</td></tr>
+    <tr><td>::fmbank</td><td>Fill your bank with firemaking items</td></tr>
+    <tr><td>::fishtest</td><td>Give yourself items to test fishing</td></tr>
+    <tr><td>::giverunes</td><td>Give yourself items to test magic</td></tr>
+    <tr><td>::magicbank</td><td>Fill your bank with magic items</td></tr>
+  </table>
+
+  <h2>Quest Commands</h2>
+  <table>
+    <tr><th>Command</th><th>Description</th></tr>
+    <tr><td>::~quest / ::~quests</td><td>Quest commands menu</td></tr>
+    <tr><td>::~cq</td><td>Complete all quests</td></tr>
+    <tr><td>::~rq</td><td>Reset all quests</td></tr>
+  </table>
+
+  <h2>Teleport Commands</h2>
+  <table>
+    <tr><th>Command</th><th>Description</th></tr>
+    <tr><td>::tele</td><td>Teleport to specific coordinates</td></tr>
+    <tr><td>::tele up / down</td><td>Teleport up or down a level</td></tr>
+    <tr><td>::north / ::east / ::south / ::west</td><td>Teleport 1 tile in a direction</td></tr>
+    <tr><td>::home</td><td>Teleport to Lumbridge</td></tr>
+    <tr><td>::varrock</td><td>Teleport to Varrock</td></tr>
+    <tr><td>::falador</td><td>Teleport to Falador</td></tr>
+    <tr><td>::draynor</td><td>Teleport to Draynor Village</td></tr>
+    <tr><td>::portsarim</td><td>Teleport to Port Sarim</td></tr>
+    <tr><td>::rimmington</td><td>Teleport to Rimmington</td></tr>
+    <tr><td>::alkharid</td><td>Teleport to Al Kharid</td></tr>
+    <tr><td>::seers</td><td>Teleport to Seers Village</td></tr>
+    <tr><td>::giants</td><td>Teleport to Giants in Edgeville Dungeon</td></tr>
+    <tr><td>::brimhaven</td><td>Teleport to Brimhaven</td></tr>
+    <tr><td>::entrana</td><td>Teleport to Entrana</td></tr>
+  </table>
+
+  <h2>Client and Engine Commands</h2>
+  <table>
+    <tr><th>Command</th><th>Description</th></tr>
+    <tr><td>::debug</td><td>Toggle the debug overlay</td></tr>
+    <tr><td>::chat</td><td>Switch chat font era</td></tr>
+    <tr><td>::perf</td><td>Show FPS</td></tr>
+    <tr><td>::coord / ::pos / ::zone</td><td>Get your position information</td></tr>
+    <tr><td>::players</td><td>Get the number of players online</td></tr>
+    <tr><td>::busy</td><td>Check if your player is busy</td></tr>
+    <tr><td>::lineofwalk / ::map_blocked</td><td>Visualize movement or blocked tiles</td></tr>
+    <tr><td>::delay</td><td>Delay your player for *n* ticks</td></tr>
+    <tr><td>::open / ::close</td><td>Open or close interfaces</td></tr>
+    <tr><td>::seq / ::anim</td><td>Play a sequence on your player</td></tr>
+    <tr><td>::spotanim</td><td>Play a spot animation on your player</td></tr>
+    <tr><td>::loc / ::npc</td><td>Spawn a loc or NPC under your player</td></tr>
+  </table>
+
+</body>
+</html>
